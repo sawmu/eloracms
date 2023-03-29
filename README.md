@@ -1,5 +1,5 @@
 <p align="center"><a href="https://laravel.com" target="_blank">
-<img src="public/cmsts.png" width="20%" height="20%"></p>
+<img src="public/cmsts.png" width="30%" height="30%"></p>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
